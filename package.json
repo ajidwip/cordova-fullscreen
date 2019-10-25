@@ -1,0 +1,32 @@
+{
+  "name": "com.panin.fullscreenimage",
+  "version": "2.0.0",
+  "description": "Show image in full screen mode with native components.",
+  "cordova": {
+    "id": "com.panin.fullscreenimage",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "keywords": [
+    "cordova",
+    "image",
+    "spanish",
+    "fullscreen",
+    "photos",
+    "keensoft",
+    "gallery",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "",
+  "license": "MIT"
+}
